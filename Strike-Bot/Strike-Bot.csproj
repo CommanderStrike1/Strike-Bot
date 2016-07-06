@@ -83,8 +83,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TestProgram.cs" />
+    <Compile Include="TestProgram1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestProgram2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
