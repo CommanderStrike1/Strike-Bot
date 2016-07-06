@@ -33,7 +33,7 @@ namespace Strike_Bot
                 x.HelpMode = HelpMode.Public;
             });
 
-            var token = "MTk5OTEyODI0MTg3NjUwMDY0.Cl3X9g.X8MOiaO2QX8a4gmfExx3ZleAD_Q";
+            var token = "placeholder";
 
             CreateCommands();
 

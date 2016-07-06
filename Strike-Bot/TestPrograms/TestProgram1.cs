@@ -48,7 +48,7 @@ namespace Strike_Bot
                 Console.WriteLine("TestProgram: 1.0.0");
 
                 // Forces the program to wait until the bot is fully connected
-                await _client.Connect("MTk5OTEyODI0MTg3NjUwMDY0.Cl3X9g.X8MOiaO2QX8a4gmfExx3ZleAD_Q");
+                await _client.Connect("placeholder");
 
                 Console.WriteLine("Connected to Discord\n");
 
