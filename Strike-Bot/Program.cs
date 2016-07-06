@@ -12,7 +12,7 @@ namespace Strike_Bot
     {
         static void Main(string[] args)
         {
-            new TestProgram2().Start();
+            new Program().Start();
         }
 
         private DiscordClient _client;
