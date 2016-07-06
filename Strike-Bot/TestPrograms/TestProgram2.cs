@@ -10,10 +10,10 @@ namespace Strike_Bot
 {
     class TestProgram2
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             new TestProgram2().Start();
-        }
+        }*/
 
         private DiscordClient _client;
 
