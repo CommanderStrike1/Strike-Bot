@@ -67,7 +67,7 @@ namespace Strike_Bot
                 .Description("mentions and messages a user with a message")
                 .Do(async (e) =>
                 {
-                    List<string> responsesList = new List<string>() { "Suck my ass", "Try me", "Bbbb...Baka!", "Quack" };
+                    List<string> responsesList = new List<string>() { "Hola!", "Hello!" };
                     Random randomizer = new Random();
                     await e.Channel.SendMessage(e.User.Mention + " " + responsesList[randomizer.Next(3)]);
                 });
